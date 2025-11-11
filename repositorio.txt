@@ -1,0 +1,5 @@
+Evidencia: GA7-220501096-AA2-EV02 - Módulos de software codificados y probados
+Proyecto: SGUEU - Sistema de Gestión de Usuarios y Estadísticas de Uso
+Módulo: Registro de Usuarios
+Repositorio: https://github.com/andresfvargasc85-cpu/SGUEU_ModuloUsuarios
+Aprendiz: Andrés Felipe Vargas Correa
